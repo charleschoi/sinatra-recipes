@@ -1,19 +1,18 @@
 # Sinatra Recipes
 
-Community contributed recipes and techniques for the [Sinatra Web
-Framework][sinatra].
+[Sinatra Web Framework][sinatra] 의 사용법과 테크닉 커뮤니티
 
-## Why yet another doc project?
+## 왜 또 다른 문서 프로젝트인가?
 
-Quite simply, the Sinatra README and Book have become long in the tooth.
+자명합니다, 기존 Sinatra의 README와 책은 너무 오래되었기 때문입니다.
 
-This project is to extract any redundant and overlap between the two sources,
-and create a home for user contributed recipes and documentation to take form.
+이 프로젝트는 두 소스 간의 중복을 제거하고 하나로 합쳐서,
+유저들이 만든 레시피와 문서를 제공할 홈페이지를 만드는 것입니다.
 
-## How can I help?
+## 당신이 어떤 도움이 될까?
 
-Got a recipe or tutorial for [Sinatra][sinatra]? Awesome, this is
-the first place you should go if you're looking to contribute.
+[Sinatra][sinatra] 를 위한 사용법 또는 튜토리얼을 가졌습니까?
+좋아요! 여기가 바로 당신의 소스를 공유할 최고의 장소입니다.
 
 Once you have [forked the project][github-forking] send a [pull
 request][github-pull-requests], just be sure to follow the [styling
